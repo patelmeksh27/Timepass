@@ -1,0 +1,14 @@
+C:\Users\patel\OneDrive\Desktop\dotnet\ProductManager\Product.Infrastructure\bin\Debug\net10.0\Product.Infrastructure.deps.json
+C:\Users\patel\OneDrive\Desktop\dotnet\ProductManager\Product.Infrastructure\bin\Debug\net10.0\Product.Infrastructure.runtimeconfig.json
+C:\Users\patel\OneDrive\Desktop\dotnet\ProductManager\Product.Infrastructure\bin\Debug\net10.0\Product.Infrastructure.dll
+C:\Users\patel\OneDrive\Desktop\dotnet\ProductManager\Product.Infrastructure\bin\Debug\net10.0\Product.Infrastructure.pdb
+C:\Users\patel\OneDrive\Desktop\dotnet\ProductManager\Product.Infrastructure\obj\Debug\net10.0\Product.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\patel\OneDrive\Desktop\dotnet\ProductManager\Product.Infrastructure\obj\Debug\net10.0\Product.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patel\OneDrive\Desktop\dotnet\ProductManager\Product.Infrastructure\obj\Debug\net10.0\Product.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\patel\OneDrive\Desktop\dotnet\ProductManager\Product.Infrastructure\obj\Debug\net10.0\Product.Infrastructure.AssemblyInfo.cs
+C:\Users\patel\OneDrive\Desktop\dotnet\ProductManager\Product.Infrastructure\obj\Debug\net10.0\Product.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\patel\OneDrive\Desktop\dotnet\ProductManager\Product.Infrastructure\obj\Debug\net10.0\Product.Infrastructure.dll
+C:\Users\patel\OneDrive\Desktop\dotnet\ProductManager\Product.Infrastructure\obj\Debug\net10.0\refint\Product.Infrastructure.dll
+C:\Users\patel\OneDrive\Desktop\dotnet\ProductManager\Product.Infrastructure\obj\Debug\net10.0\Product.Infrastructure.pdb
+C:\Users\patel\OneDrive\Desktop\dotnet\ProductManager\Product.Infrastructure\obj\Debug\net10.0\Product.Infrastructure.genruntimeconfig.cache
+C:\Users\patel\OneDrive\Desktop\dotnet\ProductManager\Product.Infrastructure\obj\Debug\net10.0\ref\Product.Infrastructure.dll
