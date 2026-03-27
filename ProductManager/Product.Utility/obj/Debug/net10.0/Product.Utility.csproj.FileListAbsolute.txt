@@ -1,0 +1,11 @@
+C:\Users\patel\OneDrive\Desktop\dotnet\ProductManager\Product.Utility\bin\Debug\net10.0\Product.Utility.deps.json
+C:\Users\patel\OneDrive\Desktop\dotnet\ProductManager\Product.Utility\bin\Debug\net10.0\Product.Utility.dll
+C:\Users\patel\OneDrive\Desktop\dotnet\ProductManager\Product.Utility\bin\Debug\net10.0\Product.Utility.pdb
+C:\Users\patel\OneDrive\Desktop\dotnet\ProductManager\Product.Utility\obj\Debug\net10.0\Product.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patel\OneDrive\Desktop\dotnet\ProductManager\Product.Utility\obj\Debug\net10.0\Product.Utility.AssemblyInfoInputs.cache
+C:\Users\patel\OneDrive\Desktop\dotnet\ProductManager\Product.Utility\obj\Debug\net10.0\Product.Utility.AssemblyInfo.cs
+C:\Users\patel\OneDrive\Desktop\dotnet\ProductManager\Product.Utility\obj\Debug\net10.0\Product.Utility.csproj.CoreCompileInputs.cache
+C:\Users\patel\OneDrive\Desktop\dotnet\ProductManager\Product.Utility\obj\Debug\net10.0\Product.Utility.dll
+C:\Users\patel\OneDrive\Desktop\dotnet\ProductManager\Product.Utility\obj\Debug\net10.0\refint\Product.Utility.dll
+C:\Users\patel\OneDrive\Desktop\dotnet\ProductManager\Product.Utility\obj\Debug\net10.0\Product.Utility.pdb
+C:\Users\patel\OneDrive\Desktop\dotnet\ProductManager\Product.Utility\obj\Debug\net10.0\ref\Product.Utility.dll
